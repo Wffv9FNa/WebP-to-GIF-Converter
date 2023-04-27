@@ -9,7 +9,7 @@ This script converts all WebP images in the current directory to GIF format usin
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/yourrepository.git`
+1. Clone the repository: `git clone https://github.com/Wffv9FNa/WebP-to-GIF-Converter`
 2. Install Pillow package: `pip install pillow`
 
 ## Usage
