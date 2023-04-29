@@ -6,17 +6,23 @@ This script converts all WebP images in the current directory to GIF format usin
 
 - Python 3.x
 - Pillow package
+- colorama package
 
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/Wffv9FNa/WebP-to-GIF-Converter`
 2. Install Pillow package: `pip install pillow`
+3. Install colorama package: `pip install colorama`
 
 ## Usage
 
 1. Navigate to the directory containing WebP files you want to convert to GIF.
 2. Run the script: `python webp_to_gif.py`
 3. The script will convert all WebP files in the directory to GIF and delete the original WebP files.
+
+## Output
+
+The script will output a message for each file that is converted, indicating the original file name in yellow and the new file name in cyan.
 
 ## Notes
 
